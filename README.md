@@ -16,6 +16,12 @@ I'm a passionate software developer with a love for crafting innovative solution
 - **💼 GDSC Lead at Mbeya University:** Leading a vibrant community of developers, organizing events, and fostering innovation.
 - **💡 Tech Motivator & Blogger:** Sharing my thoughts, experiences, and tutorials on technology, personal growth, and the tech community.
 
+## 🏆 **Achievements**
+
+![Google Developer Student Clubs Lead](https://img.shields.io/badge/Google_Developer_Student_Clubs_Lead-0057A0?style=flat-square&logo=google&logoColor=white)
+![DjangoGirls Mentor](https://img.shields.io/badge/DjangoGirls_Mentor-F56240?style=flat-square&logo=django&logoColor=white)
+![Top Contributor](https://img.shields.io/badge/Top_Contributor-007EC6?style=flat-square&logo=github&logoColor=white)
+
 ## 🛠️ **Languages and Tools**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
