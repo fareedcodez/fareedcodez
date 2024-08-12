@@ -23,16 +23,6 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-## 🛠️ **Featured Projects**
-
-- **[Healthcare Feedback Platform](#):** Designed a comprehensive feedback form for hospitals, improving patient service evaluations.
-- **[Federated Learning in Healthcare](#):** Developing a cutting-edge framework for privacy-preserving federated learning in the Tanzanian healthcare sector.
-
-## 🔍 **Current Focus**
-
-- **Federated Learning in Healthcare:** Pioneering research and development in federated learning models to ensure fairness and privacy in healthcare AI.
-- **SEO Content Writing:** Sharpening my skills as an SEO writer during my internship at Sadja WebSolutions.
-
 ## 🌍 **Let’s Connect!**
 
 I'm always open to new opportunities, collaborations, and conversations. Feel free to reach out:
