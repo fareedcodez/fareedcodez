@@ -16,11 +16,6 @@ I'm a passionate software developer with a love for crafting innovative solution
 - **💼 GDSC Lead at Mbeya University:** Leading a vibrant community of developers, organizing events, and fostering innovation.
 - **💡 Tech Motivator & Blogger:** Sharing my thoughts, experiences, and tutorials on technology, personal growth, and the tech community.
 
-## 🏆 **Achievements**
-
-![Google Developer Student Clubs Lead](https://img.shields.io/badge/Google_Developer_Student_Clubs_Lead-0057A0?style=flat-square&logo=google&logoColor=white)
-![DjangoGirls Mentor](https://img.shields.io/badge/DjangoGirls_Mentor-F56240?style=flat-square&logo=django&logoColor=white)
-![Top Contributor](https://img.shields.io/badge/Top_Contributor-007EC6?style=flat-square&logo=github&logoColor=white)
 
 ## 🛠️ **Languages and Tools**
 
@@ -49,9 +44,9 @@ I'm a passionate software developer with a love for crafting innovative solution
 
 I'm always open to new opportunities, collaborations, and conversations. Feel free to reach out:
 
-- **LinkedIn:** https://www.linkedin.com/in/fareed-ngwesa-3b4301217/ (#)
-- **Twitter:** @fareedcodez (#)
-- **Blog:** https://dev.to/fareedcodez and https://blog.neurotech.africa/ghost/#/settings/staff/fareed (#)
+- **LinkedIn:** https://www.linkedin.com/in/fareed-ngwesa-3b4301217/
+- **Twitter:** @fareedcodez
+- **Blog:** https://dev.to/fareedcodez and https://blog.neurotech.africa/ghost/#/settings/staff/fareed
 
 ---
 
