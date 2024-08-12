@@ -32,7 +32,7 @@ I'm a passionate software developer with a love for crafting innovative solution
 I'm always open to new opportunities, collaborations, and conversations. Feel free to reach out:
 
 - **LinkedIn:** https://www.linkedin.com/in/fareed-ngwesa-3b4301217/ (#)
-- **Twitter:** @fareedcodez(#)
+- **Twitter:** @fareedcodez (#)
 - **Blog:** https://dev.to/fareedcodez and https://blog.neurotech.africa/ghost/#/settings/staff/fareed (#)
 
 ---
