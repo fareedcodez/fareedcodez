@@ -1,12 +1,5 @@
 # 👋 Hello, World! I'm Fareedcodez!
 
-### **Software Developer | AI/ML Enthusiast | Python, Django & Kotlin Dancer | GDSC Lead at Mbeya University | Technical & SEO Writer | Tech Motivator | Blogger**
-
----
-
-Welcome to my corner of GitHub! 🚀
-
-I'm a passionate software developer with a love for crafting innovative solutions using **Python, Django, and Kotlin**. My journey in tech is driven by curiosity and a commitment to making a positive impact through technology. Here's a snapshot of what I do:
 
 ## 🌟 **What I Do**
 
@@ -45,7 +38,7 @@ I'm a passionate software developer with a love for crafting innovative solution
 I'm always open to new opportunities, collaborations, and conversations. Feel free to reach out:
 
 - **LinkedIn:** https://www.linkedin.com/in/fareed-ngwesa-3b4301217/
-- **Twitter:** @fareedcodez
+- **Twitter:** https://x.com/fareedcodez
 - **Blog:** https://dev.to/fareedcodez and https://blog.neurotech.africa/ghost/#/settings/staff/fareed
 
 ---
