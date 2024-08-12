@@ -3,7 +3,7 @@
 
 ## 🌟 **What I Do**
 
-- **🌐 Full-Stack Development:** Creating seamless web applications with Django, and dancing with Python and Kotlin.
+- **🌐 Backend Development:** Creating seamless web applications with Django, and dancing with Python and Kotlin.
 - **🤖 AI/ML Enthusiast:** Exploring machine learning models and AI applications to bring smart solutions to life.
 - **✍️ Technical & SEO Writing:** Writing insightful, well-researched content to guide and inform tech enthusiasts and professionals alike.
 - **💼 GDSC Lead at Mbeya University:** Leading a vibrant community of developers, organizing events, and fostering innovation.
