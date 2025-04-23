@@ -5,12 +5,9 @@
 
 ## 🌟 **What I Do**
 
-- **🌐 Backend Development:** Creating seamless mobile and web applications with Django, and dancing with Python and Kotlin.
-- **🤖 AI/ML Enthusiast:** Exploring machine learning models and AI applications to bring smart solutions to life.
-- **✍️ Technical & SEO Writing:** Writing insightful, well-researched content to guide and inform tech enthusiasts and professionals alike.
-- **💼 GDSC Lead at Mbeya University:** Leading a vibrant community of developers, organizing events, and fostering innovation.
-- **💡 Tech Motivator & Blogger:** Sharing my thoughts, experiences, and tutorials on technology, personal growth, and the tech community.
-
+- **🌐 Backend Development:**
+- **🤖 AI/ML Enthusiast:** 
+- **✍️ Technical & SEO Writing:** 
 
 ## 🛠️ **Languages and Tools**
 
