@@ -1,8 +1,5 @@
 # 👋 Hello, World! I'm Fareedcodez!
 
-![Profile Image](https://camo.githubusercontent.com/b3449705c5e53c016e661568733f018eaa6f6ec38350e296c8827d94d9a21013/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966)
-
-
 ## 🌟 **What I Do**
 
 - **🌐 Backend Development:**
@@ -18,8 +15,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 
 
 ## 🌍 **Let’s Connect!**
