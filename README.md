@@ -28,4 +28,4 @@ I'm always open to new opportunities, collaborations, and conversations. Feel fr
 
 ---
 
-Thank you for visiting my profile! Let’s build something amazing together. 😊
+Thank you for visiting my profile! Let’s build something amazing together.
